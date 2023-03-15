@@ -5,7 +5,6 @@ class PiramidaSetengahBintang {
             for (j in 1..i) {
                 print("*")
             }
-
             println()
         }
     }

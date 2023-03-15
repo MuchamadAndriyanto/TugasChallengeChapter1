@@ -11,7 +11,6 @@ class XBintang {
                     print(" ")
                 }
             }
-
             println()
         }
     }
